@@ -1,3 +1,5 @@
+NOT YET IMPLEMENTED
+
 # stats
 
 Calculate statistics from lines
